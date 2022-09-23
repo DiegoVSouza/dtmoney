@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="./assets/imgs/Logo.svg" alt="logo" width="250">
+  <img src="./src/assets/imgs/Logo.svg" alt="logo" width="250">
 <br>
 <br>
 </h1>
@@ -26,7 +26,7 @@
 - [Context](https://reactjs.org/docs/context.html)
 
 ## 👉 Demonstração da aplicação
-  <img src="./assets/preview.gif" alt="preview">
+  <img src="./src/assets/preview.gif" alt="preview">
 
 ## 👨‍💻 Rodando na sua máquina
 
