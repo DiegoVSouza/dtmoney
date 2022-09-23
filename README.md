@@ -26,7 +26,7 @@
 - [Context](https://reactjs.org/docs/context.html)
 
 ## 👉 Demonstração da aplicação
-  <img src="./src/assets/preview.gif" alt="preview">
+  <img src="./src/assets/Preview.gif" alt="preview">
 
 ## 👨‍💻 Rodando na sua máquina
 
